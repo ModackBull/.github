@@ -24,9 +24,8 @@
 | 🛡️ **PM / 기획** | 💻 **Programmer** | 💻 **Programmer** |
 | "프로젝트의 나침반" | "기능 구현의 마법사" | "기능 구현의 마법사" |
 | [차승민/차바이](https://github.com/chabchabye) | [원준희/우민](https://github.com/wumin03-alt) | [류승빈/문호](https://github.com/munhoolsida) |
-| :---: | :---: | :---: |
-| 🎨 **Art Director** | 🖌️ **~~Pixel~~ Artist** | 🎵 **Sound / Design** |
-| "비주얼의 중심" | "픽셀의 한 땀" | "감성을 채우는 소리" |
+| 🎨 **Art Director** | 💻 **Programmer** | 💻 **Programmer** |
+| "비주얼의 중심" | "기능 구현의 마법사" | "기능 구현의 마법사" |
 
 ---
 
