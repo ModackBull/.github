@@ -25,9 +25,11 @@
 
 | [오정은/시아](https://github.com/siasia0420) | [하현수/에너지마카롱](https://github.com/ENERGYMACARON/ENERGYMACARON) | [박지성/지성](https://github.com/JsOoOng) |
 | :---: | :---: | :---: |
-| 🛡️ **PM / 기획** | 💻 **Programmer** | 💻 **Programmer** |
+| <img src="https://github.com/siasia0420.png" width="100"> | <img src="https://github.com/ENERGYMACARON.png" width="100"> | <img src="https://github.com/JsOoOng.png" width="100"> |
+| 🛡️ **PM / 기획** |💻 **Programmer** | 💻 **Programmer** |
 | "프로젝트의 나침반" | "기능 구현의 마법사" | "기능 구현의 마법사" |
 | [차승민/차바이](https://github.com/chabchabye) | [원준희/우민](https://github.com/wumin03-alt) | [류승빈/문호](https://github.com/munhoolsida) |
+| <img src="https://github.com/chabchabye.png" width="100"> | <img src="https://github.com/wumin03-alt.png" width="100"> | <img src="https://github.com/munhoolsida.png" width="100"> |
 | 🎨 **Art Director** | 💻 **Programmer** | 💻 **Programmer** |
 | "비주얼의 중심" | "기능 구현의 마법사" | "기능 구현의 마법사" |
 
