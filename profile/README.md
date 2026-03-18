@@ -1,10 +1,14 @@
+<div align="center">
+<img src="https://github.com/ModackBull.png" alt="Organization Logo" width="180px">
+
 # 🔥 팀 모닥불 (Team ModackBull)
 > **"함께 모여 따뜻한 재미를 만드는 곳, 모닥불입니다."**
 
-2026년 연합 게임 동아리에서 시작된 **팀 모닥불**은 게임을 향한 열정으로 뭉친 6인의 개발 팀입니다. 
+2026년 연합 게임 동아리에서 시작된 **팀 모닥불**은 게임을 향한 열정으로 뭉친 6인의 개발 팀입니다. </br>
 현재 우리는 (미정) 아트 기반의 **2D 아쿠아리움 스토리 게임**을 통해 사용자들에게 새로운 경험을 선사하기 위해 달리고 있습니다.
 
 ---
+</div>
 
 ### 🛠 Tech Stack
 | Category | Stack |
